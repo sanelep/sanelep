@@ -38,7 +38,7 @@ export default function Footer() {
               <span className="font-bold text-lg text-white">Sanele Phakathi</span>
             </div>
             <p className="text-earth-warm/60 text-sm leading-relaxed mb-4">
-              Recording artist, songwriter, pianist, producer &amp; composer. Blending Jazz, Afro-Pop, Deep House, and R&amp;B.
+              Recording artist, songwriter, pianist, producer &amp; composer. Blending Jazz, Afro-Jazz, Deep House, and R&amp;B.
             </p>
             <p className="text-earth-warm/40 text-xs">
               Made with <Heart className="w-3 h-3 inline text-earth-burnt" fill="currentColor" /> in South Africa
@@ -119,7 +119,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:bookings@sanelephakathi.com" className="text-earth-warm/60 hover:text-accent-gold text-sm transition-colors">
+                <a href="mailto:sanelep@yahoo.com" className="text-earth-warm/60 hover:text-accent-gold text-sm transition-colors">
                   Bookings
                 </a>
               </li>
@@ -137,7 +137,7 @@ export default function Footer() {
           <div className="flex items-center gap-6 text-earth-warm/40 text-xs">
             <span>Privacy Policy</span>
             <span>Terms of Use</span>
-            <span>Managed by Z.ai</span>
+            <span>Managed by Sanele Phakathi</span>
           </div>
         </div>
       </div>
