@@ -13,7 +13,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-kenburns"
         style={{
-          backgroundImage: `url('https://web.facebook.com/photo.php?fbid=6402543896459460&set=pb.100001117394156.-2207520000&type=3')`,
+          backgroundImage: `url('https://web.facebook.com/photo.php?fbid=6402543896459460&set=pb.100001117394156.-2207520000&type=3')`
         }}
       />
 
