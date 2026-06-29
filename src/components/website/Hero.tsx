@@ -13,7 +13,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-kenburns"
         style={{
-          backgroundImage: `url('https://scontent.fjnb9-1.fna.fbcdn.net/v/t39.30808-6/492812282_9802852626428553_7969376063102095080_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x959&ctp=s1440x959&_nc_cat=103&_nc_oc=AdcP0KNV-WoxP-Yq8z0YCJVJe8N4TvfHWA4rQ2ZlE1vOOQ&_nc_ht=scontent.fjnb9-1&oh=00_AYA6p9xA8z9x7z8z7z8z7z8z7z&oe=67A1B2C3')`,
+          backgroundImage: `url('https://web.facebook.com/photo.php?fbid=6402543896459460&set=pb.100001117394156.-2207520000&type=3')`,
         }}
       />
 
