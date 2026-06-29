@@ -13,7 +13,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-kenburns"
         style={{
-          backgroundImage: `url('https://www.musicinafrica.net/sites/default/files/styles/profile_images_large/public/images/user/202201/2022846014859112214561108569117416804687635n1485911221456110.jpg?itok=hxptlbQa')`,
+          backgroundImage: `url('/download/hero-screenshot.png')`,
         }}
       />
 
