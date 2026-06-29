@@ -87,7 +87,7 @@ export default function AboutSection() {
               {/* Photo with gradient placeholder */}
               <div className="absolute inset-0 bg-gradient-to-br from-earth-brown via-earth-dark to-earth-burnt" />
               <img
-                src="https://www.instagram.com/p/DGXuCezIKTn/"
+                src="https://scontent.fjnb9-1.fna.fbcdn.net/v/t51.75761-15/480768713_18462047563070711_3076318534192584834_n.webp?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHlpFHNSBZAMVy7ZjDNKwtuHvXMDMT7szMe9cwMxPuzM25UV9ShHECqjWeJlLGb46p74x3Z2KekMW84-MyOiq1I&_nc_ohc=jZiFErC7xEUQ7kNvwGbQd4q&_nc_oc=AdrlcKTjtxnGR_AD51Xa5dd4IbMPOEkOeBqAkeIUkcEFm_gswanV5_aEtrr-UpTduVg&_nc_zt=23&_nc_ht=scontent.fjnb9-1.fna&_nc_gid=A6tiIS35z56TOJPGH2wOeA&_nc_ss=7b2a8&oh=00_Af-9N_6ewW-nfh1iCzqAT8bO4SbpVtomCl5zwl5jlXbuKg&oe=6A489A73"
                 alt="Sanele Phakathi - Recording Artist, Pianist, Producer & Composer"
                 className="relative z-10 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
