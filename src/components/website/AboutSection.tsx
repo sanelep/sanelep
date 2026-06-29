@@ -87,7 +87,7 @@ export default function AboutSection() {
               {/* Photo with gradient placeholder */}
               <div className="absolute inset-0 bg-gradient-to-br from-earth-brown via-earth-dark to-earth-burnt" />
               <img
-                src="https://www.musicinafrica.net/sites/default/files/styles/profile_images_large/public/images/user/202201/2022846014859112214561108569117416804687635n1485911221456110.jpg?itok=hxptlbQa"
+                src="https://www.instagram.com/p/DGXuCezIKTn/"
                 alt="Sanele Phakathi - Recording Artist, Pianist, Producer & Composer"
                 className="relative z-10 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
