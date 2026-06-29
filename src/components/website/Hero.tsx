@@ -27,7 +27,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <p className="text-accent-gold text-sm sm:text-base font-medium tracking-[0.3em] uppercase mb-4 sm:mb-6">
-            Jazz &bull; Afro-Pop &bull; Deep House &bull; R&B
+            Jazz &bull; Afro-Jazz &bull; Deep House &bull; R&B
           </p>
         </motion.div>
 
