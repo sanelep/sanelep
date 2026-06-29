@@ -13,7 +13,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-kenburns"
         style={{
-          backgroundImage: `url('https://scontent.fjnb9-1.fna.fbcdn.net/v/t39.30808-6/492812282_9802852626428553_7969376063102095080_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x959&ctp=s1440x959&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFjKwz42ZyWaWsBSAmICVhrahkuQhEaP5lqGS5CERo_mVdmFOEunaoKlEKO_9YqLDQdd6sO76IGaf0-QmL1eCgy&_nc_ohc=audDoQd6tisQ7kNvwH0Gnlt&_nc_oc=AdpAlAgeHl3U-fHC0RkqwOwyX2_g-GwqTRjEKlOtjQQ4ZkCvinrSHcW_SeZxcoXOT44&_nc_zt=23&_nc_ht=scontent.fjnb9-1.fna&_nc_gid=9UIafw2U9XGHnp5_8pNrXA&_nc_ss=7b2a8&oh=00_Af85mzA-nnDft_ebDAZZUUKf1fgF80BFaRU9nrXsV5lOow&oe=6A48994C’)`,
+          backgroundImage: `url('https://scontent.fjnb9-1.fna.fbcdn.net/v/t39.30808-6/492812282_9802852626428553_7969376063102095080_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x959&ctp=s1440x959&_nc_cat=103&_nc_oc=AdcP0KNV-WoxP-Yq8z0YCJVJe8N4TvfHWA4rQ2ZlE1vOOQ&_nc_ht=scontent.fjnb9-1&oh=00_AYA6p9xA8z9x7z8z7z8z7z8z7z&oe=67A1B2C3')`,
         }}
       />
 
